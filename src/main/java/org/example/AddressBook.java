@@ -9,9 +9,6 @@ public final class AddressBook {
 
     private final List<Person> list = new ArrayList<>(); //List of people as a base of an address book
 
-    public AddressBook() { //Constructor of class (creates an empty book)
-
-    }
 
     public boolean addPerson(Person person) { //Addition of a new person
         if (!list.contains(person)) {

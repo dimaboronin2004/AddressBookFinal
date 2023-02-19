@@ -10,7 +10,6 @@ import java.util.Collections;
 
 public class AddressBookTest {
     Person Sokolov = new Person("Соколов", "ул. Ленина", 20, 44);
-    Person Ivanov = new Person("Иванов" , "ул. Дальняя", 2, 50);
     Person Gusev = new Person("Гусев", "пр. Авиастроителей", 69, 32);
     Person Kozlov = new Person("Козлов", "пер. Пушкина", 8, 11);
     Person Krasnov = new Person("Краснов", "пр. Авиастроителей", 50, 99);
